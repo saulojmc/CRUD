@@ -1,17 +1,17 @@
 # CRUD
 
-##Fazendo um controle de estoque simples de aparelhos, periféricos e celulares usando PHP e Bootstrap
+## Fazendo um controle de estoque simples de aparelhos, periféricos e celulares usando PHP e Bootstrap
 
 *Neste projeto estão alguns exemplos de pequenas aplicações PHP que estou estudando.
 Seguindo em ordem de complexidade, indo do básico ao avançado.*
 
 
-##Requisitos
+## Requisitos
 
 - PHP 7.2+
 - Bootstrap
 
-##Instalação
+## Instalação
 
 - Baixe o repositório como arquivo zip ou faça um clone;
 
